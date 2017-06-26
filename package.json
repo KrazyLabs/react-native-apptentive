@@ -1,5 +1,5 @@
 {
-  "name": "@krazylabs/react-native-apptentive-message-center",
+  "name": "@krazylabs/react-native-apptentive",
   "version": "0.1.0",
   "files": ["src", "ios", "android"],
   "main": "index.js",
