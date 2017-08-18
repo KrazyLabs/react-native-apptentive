@@ -22,4 +22,9 @@ public class RNApptentiveModule extends ReactContextBaseJavaModule {
     public void showMessageCenter() {
         Apptentive.showMessageCenter(getReactApplicationContext());
     }
+
+    @ReactMethod
+    public void engage(String eventName) {
+        Apptentive.engage(getReactApplicationContext(), eventName);
+    }
 }
