@@ -1,8 +1,6 @@
-
-
 #import <React/RCTBridgeModule.h>
-#import <Apptentive.h>
 #import <UIKit/UIKit.h>
+#import "Apptentive.h"
 
 
 @interface RNApptentive : NSObject <RCTBridgeModule>
