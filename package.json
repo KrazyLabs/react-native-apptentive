@@ -1,14 +1,29 @@
 {
   "name": "@krazylabs/react-native-apptentive",
-  "version": "1.6.0",
+  "version": "1.6.1",
+  "description": "React Native Module for exposing the Apptentive message center and engage functionality",
   "files": [
     "index.js",
     "ios",
     "android"
   ],
   "main": "index.js",
+  "keywords":[
+    "react-native",
+    "apptentive"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.46.0"
+  },
+  "author": "Ian Brune <ian.brune@thekrazycouponlady.com>",
+  "license": "Apache-2.0",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/KrazyLabs/react-native-apptentive",
+  "bugs": "https://github.com/KrazyLabs/react-native-apptentive/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrazyLabs/react-native-apptentive"
+  }
 }
