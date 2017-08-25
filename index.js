@@ -1,7 +1,5 @@
-import {NativeModules} from "react-native"
+import { NativeModules } from "react-native"
 
-const {RNApptentive} = NativeModules
-
-console.log("RNApptentive", RNApptentive)
+const { RNApptentive } = NativeModules
 
 export default RNApptentive
