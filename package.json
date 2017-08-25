@@ -1,6 +1,6 @@
 {
   "name": "@krazylabs/react-native-apptentive",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "React Native Module for exposing the Apptentive message center and engage functionality",
   "files": [
     "index.js",
@@ -8,7 +8,7 @@
     "android"
   ],
   "main": "index.js",
-  "keywords":[
+  "keywords": [
     "react-native",
     "apptentive"
   ],
